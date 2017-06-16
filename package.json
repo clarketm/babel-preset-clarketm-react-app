@@ -2,10 +2,10 @@
   "name": "babel-preset-clarketm-react-app",
   "version": "1.0.0",
   "description": "Customized Babel preset used for Create React App",
-  "repository": "clarketm/create-react-app",
+  "repository": "clarketm/babel-preset-clarketm-react-app",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/clarketm/create-react-app/issues"
+    "url": "https://github.com/clarketm/babel-preset-clarketm-react-app/issues"
   },
   "files": [
     "index.js"
