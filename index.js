@@ -68,7 +68,7 @@ switch (true) {
           require.resolve('babel-plugin-transform-regenerator'), {
             async: false
           }
-        ]
+        ],
         require.resolve('babel-plugin-syntax-dynamic-import'),
       ])
     };
