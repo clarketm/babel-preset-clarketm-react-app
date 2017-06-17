@@ -18,7 +18,9 @@ const plugins = [
       regenerator: true,
     }
   ],
-  require.resolve('babel-plugin-transform-class-properties')
+  require.resolve('babel-plugin-transform-class-properties'),
+  require.resolve('babel-plugin-transform-decorators-legacy'),
+  require.resolve('babel-plugin-transform-function-bind')
 ];
 
 var env = process.env.BABEL_ENV || process.env.NODE_ENV;
